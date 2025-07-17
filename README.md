@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant Reservation System API
 
 A comprehensive Laravel-based REST API for managing restaurant reservations, customers, and tables. Built with modern PHP practices and designed for integration with Flutter mobile applications.
@@ -138,3 +139,6 @@ For detailed setup instructions, see [SETUP_GUIDE.md](SETUP_GUIDE.md)
 For API usage examples, see [API_DOCUMENTATION.md](API_DOCUMENTATION.md)
 
 
+=======
+# restaurant-reservation-api
+>>>>>>> 19dce81aeda94c09aee247907694fd0345b933c5
